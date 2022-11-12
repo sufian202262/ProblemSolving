@@ -6,15 +6,21 @@ int main()
     int t;
     cin>>t;
     while(t--){
-        int i,n,maxidx=0;
+        int i,n,maxi,maxidx=1;
         cin>>n;
         int a[n];
-        
         for(int i=0;i<n;++i){
             cin>>a[i];
-            if(a[maxidx]<=a[i])maxidx=i;
         }
-
+        
+        maxi=a[0];
+        for(i=0;i<n;++i){
+            if(a[i]>=maxi){
+                maxi=a[i];
+                maxidx=i;
+            }
+        }
+        
         cout<<maxidx+1<<endl;
     }
  
