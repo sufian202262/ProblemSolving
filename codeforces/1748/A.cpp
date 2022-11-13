@@ -8,7 +8,7 @@ int main()
     while(t--){
         long long n;
         cin>>n;
-        cout<<(n+1)/2<<endl;
+        cout<<((n%2==0)?n/2:n/2+1)<<endl;
     }
     return 0;
 }
