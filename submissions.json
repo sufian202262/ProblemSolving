@@ -1,4 +1,20 @@
 {
+  "CF181164889": {
+    "contest_id": 266,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/266/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stones on the Table",
+    "problem_url": "https://codeforces.com/contest/266/problem/A",
+    "submission_id": "CF181164889",
+    "submission_url": "https://codeforces.com/contest/266/submission/181164889",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/16/2022 12:39"
+  },
   "CF181188701": {
     "contest_id": 1742,
     "language": "C++20 (GCC 11-64)",
