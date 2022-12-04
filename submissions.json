@@ -1,4 +1,20 @@
 {
+  "CF183801102": {
+    "contest_id": 363,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/363/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Soroban",
+    "problem_url": "https://codeforces.com/contest/363/problem/A",
+    "submission_id": "CF183801102",
+    "submission_url": "https://codeforces.com/contest/363/submission/183801102",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/04/2022 13:18"
+  },
   "CF184380510": {
     "contest_id": 262,
     "language": "C++20 (GCC 11-64)",
