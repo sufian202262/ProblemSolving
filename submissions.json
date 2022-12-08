@@ -1,4 +1,20 @@
 {
+  "CF184380510": {
+    "contest_id": 262,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/262/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Roma and Lucky Numbers",
+    "problem_url": "https://codeforces.com/contest/262/problem/A",
+    "submission_id": "CF184380510",
+    "submission_url": "https://codeforces.com/contest/262/submission/184380510",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/08/2022 23:53"
+  },
   "CF187067712": {
     "contest_id": 1772,
     "language": "C++20 (GCC 11-64)",
