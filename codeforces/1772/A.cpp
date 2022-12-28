@@ -6,9 +6,9 @@ int main()
     int t;
     cin>>t;
     while(t--){
-        int a,b;
-        cin>>a>>b;
-        cout<<(a+b)<<endl;
+        string s;
+        cin>>s;
+        cout<<s[0]+s[2]-96<<endl;
     }
 
     return 0;
