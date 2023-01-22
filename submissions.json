@@ -1,4 +1,21 @@
 {
+  "CF190129286": {
+    "contest_id": 1743,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/1743/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutation Value",
+    "problem_url": "https://codeforces.com/contest/1743/problem/B",
+    "submission_id": "CF190129286",
+    "submission_url": "https://codeforces.com/contest/1743/submission/190129286",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/23/2023 00:25"
+  },
   "CF190129580": {
     "contest_id": 1743,
     "language": "C++20 (GCC 11-64)",
