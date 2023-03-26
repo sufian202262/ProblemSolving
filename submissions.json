@@ -1,4 +1,20 @@
 {
+  "CF199312953": {
+    "contest_id": 1807,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/1807/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Plus or Minus",
+    "problem_url": "https://codeforces.com/contest/1807/problem/A",
+    "submission_id": "CF199312953",
+    "submission_url": "https://codeforces.com/contest/1807/submission/199312953",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/26/2023 23:40"
+  },
   "CF199319669": {
     "contest_id": 1807,
     "language": "C++20 (GCC 11-64)",
