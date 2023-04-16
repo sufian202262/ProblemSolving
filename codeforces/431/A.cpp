@@ -3,18 +3,19 @@ using namespace std;
 
 int main()
 {
-    int a[4],sum=0;
-    for(int i=0;i<4;i++){
-        cin>>a[i];
-    }
+    int a,b,c,d,sum=0;
+    cin>>a>>b>>c>>d;
     
     string s;
     cin>>s;
     
     for(int i=0;i<s.size();i++){
-        sum+=a[s[i]-'1'];
+        if(s[i]=='1')sum+=a;
+        else if(s[i]=='2')sum+=b;
+        else if(s[i]=='3')sum+=c;
+        else sum+=d;
     }
-    cout<<sum;
+    cout<<sum<<endl;
 
     return 0;
 }
