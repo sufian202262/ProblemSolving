@@ -5,11 +5,12 @@ int main()
 {
     int k,r,i=1;
     cin>>k>>r;
-    for(i=1;i<10;i++){
-        if(k*i%10==0 || k*i%10==r){
-            cout<<i;
-            return 0;
-        }
+    while(1){
+        if((k*i%10)==0)break;
+        else if((k*i-r)%10==0)break;
+        i++;
     }
+    cout<<i;
+    
     return 0;
 }
