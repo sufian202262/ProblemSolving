@@ -3,14 +3,13 @@ using namespace std;
 
 int main()
 {
-    int k,r,ans=1;
+    int k,r,i=1;
     cin>>k>>r;
-    
-    int cur=k;
-    while(cur%10!=0 && cur%10!=r){
-        cur+=k;
-        ans++;
+    for(i=1;i<10;i++){
+        if(k*i%10==0 || k*i%10==r){
+            cout<<i;
+            return 0;
+        }
     }
-    cout<<ans;
     return 0;
 }
