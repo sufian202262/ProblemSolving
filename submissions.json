@@ -1,4 +1,20 @@
 {
+  "CF202890013": {
+    "contest_id": 34,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/34/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Reconnaissance 2",
+    "problem_url": "https://codeforces.com/contest/34/problem/A",
+    "submission_id": "CF202890013",
+    "submission_url": "https://codeforces.com/contest/34/submission/202890013",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/20/2023 23:48"
+  },
   "CF202890738": {
     "contest_id": 709,
     "language": "C++20 (GCC 11-64)",
