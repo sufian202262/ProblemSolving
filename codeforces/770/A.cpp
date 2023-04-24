@@ -5,9 +5,17 @@ int main()
 {
     int n,k,i;
     cin>>n>>k;
+    string ans,s="abcdefghijklmnopqrstuvwxyz";
     
-    for(int i=0;i<n;i++){
-        cout<<char('a'+i%k);
+    for(i=0;i<k;i++){
+        ans+=s[i];
     }
+    i=0;
+    while(ans.size()!=n){
+        ans+=s[i];
+        i++;
+        if(i==k)i=0;
+    }
+    cout<<ans;
     return 0;
 }
