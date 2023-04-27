@@ -1,4 +1,21 @@
 {
+  "CF203629573": {
+    "contest_id": 767,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/767/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Snacktower",
+    "problem_url": "https://codeforces.com/contest/767/problem/A",
+    "submission_id": "CF203629573",
+    "submission_url": "https://codeforces.com/contest/767/submission/203629573",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Apr/27/2023 12:10"
+  },
   "CF203633079": {
     "contest_id": 768,
     "language": "C++20 (GCC 11-64)",
