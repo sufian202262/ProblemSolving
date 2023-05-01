@@ -12,7 +12,10 @@ int main()
     }
     int cnt=0;
     for(int i=0;i<n;i++){
-        if(arr[i]>=arr[k-1] && arr[i]>0)cnt++;
+        if(arr[k-1]==0){
+            if(arr[i]>arr[k-1])cnt++;
+        }
+        else if(arr[i]>=arr[k-1])cnt++;
     }
     cout<<cnt;
 

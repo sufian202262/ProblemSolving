@@ -1,4 +1,21 @@
 {
+  "CF204106750": {
+    "contest_id": 158,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/158/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Next Round",
+    "problem_url": "https://codeforces.com/contest/158/problem/A",
+    "submission_id": "CF204106750",
+    "submission_url": "https://codeforces.com/contest/158/submission/204106750",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/01/2023 11:17"
+  },
   "CF204106976": {
     "contest_id": 158,
     "language": "C++20 (GCC 11-64)",
