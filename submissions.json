@@ -1,4 +1,21 @@
 {
+  "CF204195550": {
+    "contest_id": 41,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/41/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Translation",
+    "problem_url": "https://codeforces.com/contest/41/problem/A",
+    "submission_id": "CF204195550",
+    "submission_url": "https://codeforces.com/contest/41/submission/204195550",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/02/2023 11:04"
+  },
   "CF204201143": {
     "contest_id": 950,
     "language": "C++20 (GCC 11-64)",
