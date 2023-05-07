@@ -7,12 +7,14 @@ int main()
     while(t--){
         int n,cnt=0,ans=0;
         cin>>n;
-        for(int i=0;i<n;i++){
-            int x;
-            cin>>x;
-            if(x==0)cnt++;
-            else cnt=0;
+        int a[n];
+        
+        for(int i=0;i<n;i++)cin>>a[i];
+        
+        for(int i=0;i<=n-1;i++){
+            if(a[i]==0)cnt++;
             ans=max(ans,cnt);
+            if(a[i]!=a[i+1])cnt=0;
         }
         cout<<ans<<"\n";
     }
