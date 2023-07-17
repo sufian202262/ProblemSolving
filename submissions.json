@@ -1,4 +1,20 @@
 {
+  "CF214257319": {
+    "contest_id": 1676,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/1676/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lucky?",
+    "problem_url": "https://codeforces.com/contest/1676/problem/A",
+    "submission_id": "CF214257319",
+    "submission_url": "https://codeforces.com/contest/1676/submission/214257319",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/18/2023 01:45"
+  },
   "CF214436603": {
     "contest_id": 1669,
     "language": "C++20 (GCC 11-64)",
