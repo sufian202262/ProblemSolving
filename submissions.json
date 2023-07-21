@@ -1,4 +1,21 @@
 {
+  "CF214764444": {
+    "contest_id": 1850,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/1850/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "To My Critics",
+    "problem_url": "https://codeforces.com/contest/1850/problem/A",
+    "submission_id": "CF214764444",
+    "submission_url": "https://codeforces.com/contest/1850/submission/214764444",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jul/21/2023 20:37"
+  },
   "CF215022386": {
     "contest_id": 1850,
     "language": "C++20 (GCC 11-64)",
