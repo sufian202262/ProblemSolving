@@ -1,4 +1,22 @@
 {
+  "CF223457254": {
+    "contest_id": 1872,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/1872/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Vessels",
+    "problem_url": "https://codeforces.com/contest/1872/problem/A",
+    "submission_id": "CF223457254",
+    "submission_url": "https://codeforces.com/contest/1872/submission/223457254",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/15/2023 15:13"
+  },
   "CF224527871": {
     "contest_id": 1873,
     "language": "C++20 (GCC 11-64)",
