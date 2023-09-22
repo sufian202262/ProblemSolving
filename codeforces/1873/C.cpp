@@ -27,6 +27,13 @@ using namespace std;
 
 const char nl = '\n';
 
+int value(int r,int c){
+    if(r > 5)r = 10 - r + 1;
+    if(c > 5) c = 10 - c + 1;
+    if(c>=r)return r;
+    else return c;
+}
+
 int main()
 {   
     
@@ -38,13 +45,11 @@ int main()
             string s;cin>>s;
             grid.push_back(s);
         }
-        int ans=0,mr,mc;
+        int ans=0;
         for(int i=0;i<10;i++){
             for(int j=0;j<10;j++){
                 if(grid[i][j] == 'X' ){
-                    mr = min(i+1, 10-i);
-                    mc = min(j+1, 10-j);
-                    ans+=min(mr,mc);
+                    ans+=value(i+1,j+1);
                 }
             }
         }
