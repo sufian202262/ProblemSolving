@@ -34,10 +34,15 @@ int main()
     cin.tie(0);cout.tie(0);
     TC{
         int n;cin>>n;
-        int a[n],s=0;
-        for(auto &u : a)cin>>u;
-        for(auto &u : a)s+=u;
-        cout<<((s%2)? "NO\n": "YES\n");
+        int a[n],s1=0,s2=0;
+        for(int i=0;i<n;i++)cin>>a[i];
+        for(int i=0;i<n;i++){
+            if(a[i]%2==0)s1+=a[i];
+            else s2+=a[i];
+        }
+        if(s1%2==0 && s2%2==0 || s1%2!=0 && s2%2!=0)cout<<"YES"<<nl;
+        else cout<<"NO"<<nl;
+
     }
     
   return 0;
