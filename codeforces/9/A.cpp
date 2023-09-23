@@ -32,15 +32,17 @@ int main()
     
     ios_base::sync_with_stdio(false);
     cin.tie(0);cout.tie(0);
-    int y,w;
+    float y,w;
     cin>>y>>w;
-    int mx=max(y,w);
-    if(mx==6)cout<<1<<"/"<<6;
-    else if(mx==5)cout<<1<<"/"<<3;
-    else if(mx==4)cout<<1<<"/"<<2;
-    else if(mx==3)cout<<2<<"/"<<3;
-    else if(mx==2)cout<<5<<"/"<<6;
-    else if(mx==1) cout<<1<<"/"<<1;
+    float mx=max(y,w);
+    float res= 6-mx+1;
+    
+    if(res/6.0==1/6.0)cout<<1<<"/"<<6;
+    else if(res/6.0==2/6.0)cout<<1<<"/"<<3;
+    else if(res/6.0==3/6.0)cout<<1<<"/"<<2;
+    else if(res/6.0==4/6.0)cout<<2<<"/"<<3;
+    else if(res/6.0==5/6.0)cout<<5<<"/"<<6;
+    else if(res/6.0==6/6.0) cout<<1<<"/"<<1;
     else cout<<0<<"/"<<1;
     
   return 0;
