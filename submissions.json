@@ -1,4 +1,21 @@
 {
+  "CF224790236": {
+    "contest_id": 9,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/9/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Die Roll",
+    "problem_url": "https://codeforces.com/contest/9/problem/A",
+    "submission_id": "CF224790236",
+    "submission_url": "https://codeforces.com/contest/9/submission/224790236",
+    "tags": [
+      "math",
+      "probabilities",
+      "*800"
+    ],
+    "timestamp": "Sep/24/2023 00:00"
+  },
   "CF224799478": {
     "contest_id": 1857,
     "language": "C++20 (GCC 11-64)",
