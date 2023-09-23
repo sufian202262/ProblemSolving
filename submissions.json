@@ -1,4 +1,20 @@
 {
+  "CF224801303": {
+    "contest_id": 1554,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/1554/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cherry",
+    "problem_url": "https://codeforces.com/contest/1554/problem/A",
+    "submission_id": "CF224801303",
+    "submission_url": "https://codeforces.com/contest/1554/submission/224801303",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Sep/24/2023 01:58"
+  },
   "CF229510622": {
     "contest_id": 1883,
     "language": "C++20 (GCC 11-64)",
