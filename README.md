@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-7 | [B - Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | [C++17 (GCC 7-32)](./codeforces/1985/B.cpp) | `brute force` `math` `number theory` | Jun/14/2024 21:13 | 
-6 | [A - Creating Words](https://codeforces.com/contest/1985/problem/A) | [C++17 (GCC 7-32)](./codeforces/1985/A.cpp) | `implementation` `strings` | Jun/14/2024 20:39 | 
-5 | [B - Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | [C++20 (GCC 11-64)](./codeforces/433/B.cpp) | `dp` `implementation` `sortings` `*1200` | Feb/09/2024 12:18 | 
-4 | [A - Magic Numbers](https://codeforces.com/contest/320/problem/A) | [C++20 (GCC 11-64)](./codeforces/320/A.cpp) | `brute force` `greedy` `*900` | Jan/10/2024 17:05 | 
-3 | [A - System of Equations](https://codeforces.com/contest/214/problem/A) | [C++20 (GCC 11-64)](./codeforces/214/A.cpp) | `brute force` `*800` | Jan/10/2024 16:48 | 
-2 | [A - Fair Playoff](https://codeforces.com/contest/1535/problem/A) | [C++20 (GCC 11-64)](./codeforces/1535/A.cpp) | `brute force` `implementation` `*800` | Jan/10/2024 00:08 | 
-1 | [A - In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | [C++20 (GCC 11-64)](./codeforces/1030/A.cpp) | `implementation` `*800` | Jan/09/2024 02:58 | 
+8 | [B - Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | [C++17 (GCC 7-32)](./codeforces/1985/B.cpp) | `brute force` `math` `number theory` | Jun/14/2024 21:13 | 
+7 | [A - Creating Words](https://codeforces.com/contest/1985/problem/A) | [C++17 (GCC 7-32)](./codeforces/1985/A.cpp) | `implementation` `strings` | Jun/14/2024 20:39 | 
+6 | [B - Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | [C++20 (GCC 11-64)](./codeforces/433/B.cpp) | `dp` `implementation` `sortings` `*1200` | Feb/09/2024 12:18 | 
+5 | [A - Magic Numbers](https://codeforces.com/contest/320/problem/A) | [C++20 (GCC 11-64)](./codeforces/320/A.cpp) | `brute force` `greedy` `*900` | Jan/10/2024 17:05 | 
+4 | [A - System of Equations](https://codeforces.com/contest/214/problem/A) | [C++20 (GCC 11-64)](./codeforces/214/A.cpp) | `brute force` `*800` | Jan/10/2024 16:48 | 
+3 | [A - Fair Playoff](https://codeforces.com/contest/1535/problem/A) | [C++20 (GCC 11-64)](./codeforces/1535/A.cpp) | `brute force` `implementation` `*800` | Jan/10/2024 00:08 | 
+2 | [A - In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | [C++20 (GCC 11-64)](./codeforces/1030/A.cpp) | `implementation` `*800` | Jan/09/2024 02:58 | 
+1 | [A - Beautiful Year](https://codeforces.com/contest/271/problem/A) | [C++20 (GCC 11-64)](./codeforces/271/A.cpp) | `brute force` `*800` | Jan/09/2024 02:53 | 
