@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-3 | [B - Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | [C++17 (GCC 7-32)](./codeforces/1985/B.cpp) | `brute force` `math` `number theory` | Jun/14/2024 21:13 | 
-2 | [A - Creating Words](https://codeforces.com/contest/1985/problem/A) | [C++17 (GCC 7-32)](./codeforces/1985/A.cpp) | `implementation` `strings` | Jun/14/2024 20:39 | 
-1 | [B - Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | [C++20 (GCC 11-64)](./codeforces/433/B.cpp) | `dp` `implementation` `sortings` `*1200` | Feb/09/2024 12:18 | 
+4 | [B - Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | [C++17 (GCC 7-32)](./codeforces/1985/B.cpp) | `brute force` `math` `number theory` | Jun/14/2024 21:13 | 
+3 | [A - Creating Words](https://codeforces.com/contest/1985/problem/A) | [C++17 (GCC 7-32)](./codeforces/1985/A.cpp) | `implementation` `strings` | Jun/14/2024 20:39 | 
+2 | [B - Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | [C++20 (GCC 11-64)](./codeforces/433/B.cpp) | `dp` `implementation` `sortings` `*1200` | Feb/09/2024 12:18 | 
+1 | [A - Magic Numbers](https://codeforces.com/contest/320/problem/A) | [C++20 (GCC 11-64)](./codeforces/320/A.cpp) | `brute force` `greedy` `*900` | Jan/10/2024 17:05 | 

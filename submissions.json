@@ -1,4 +1,21 @@
 {
+  "CF241043046": {
+    "contest_id": 320,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces/320/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Magic Numbers",
+    "problem_url": "https://codeforces.com/contest/320/problem/A",
+    "submission_id": "CF241043046",
+    "submission_url": "https://codeforces.com/contest/320/submission/241043046",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Jan/10/2024 17:05"
+  },
   "CF245554563": {
     "contest_id": 433,
     "language": "C++20 (GCC 11-64)",
