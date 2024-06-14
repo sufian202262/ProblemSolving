@@ -12,4 +12,5 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1 | [B - Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | [C++17 (GCC 7-32)](./codeforces/1985/B.cpp) | `brute force` `math` `number theory` | Jun/14/2024 21:13 | 
+2 | [B - Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | [C++17 (GCC 7-32)](./codeforces/1985/B.cpp) | `brute force` `math` `number theory` | Jun/14/2024 21:13 | 
+1 | [A - Creating Words](https://codeforces.com/contest/1985/problem/A) | [C++17 (GCC 7-32)](./codeforces/1985/A.cpp) | `implementation` `strings` | Jun/14/2024 20:39 | 

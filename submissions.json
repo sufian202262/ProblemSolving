@@ -1,4 +1,20 @@
 {
+  "CF265773133": {
+    "contest_id": 1985,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces/1985/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Creating Words",
+    "problem_url": "https://codeforces.com/contest/1985/problem/A",
+    "submission_id": "CF265773133",
+    "submission_url": "https://codeforces.com/contest/1985/submission/265773133",
+    "tags": [
+      "implementation",
+      "strings"
+    ],
+    "timestamp": "Jun/14/2024 20:39"
+  },
   "CF265777344": {
     "contest_id": 1985,
     "language": "C++17 (GCC 7-32)",
